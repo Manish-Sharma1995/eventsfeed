@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://visitkc:8888/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:visitkc="https://www.visitkc.com/rss/1.0/visitkc/"> <channel> <title>Events RSS Feed</title>
+ <link>http://visitkc:8888/</link>
+ <atom:link rel="self" href="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428" />
+ <language>en</language>
+ <pubDate>Tue, 28 Aug 2018 07:17:00 -0500</pubDate>
+ <lastBuildDate>Thu, 30 Aug 2018 05:01:03 -0500</lastBuildDate>
+ <item> <title>2018 Kansas City Renaissance Festival</title>
+ <link>http://visitkc:8888/event-detail/2018-kansas-city-renaissance-festival</link>
+ <guid isPermaLink="false">39808</guid>
+ <pubDate>Sat, 2018-09-01 10:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>2018 Kansas City Renaissance Festival</dc:title>
+ <visitkc:location>Kansas City Renaissance Festival, 628 N 126th St., Bonner Springs, KS 66012</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/800x400--Ramoni_0BC253A4-B680-4117-B69DD0F6D8A70B38_4e4ef7c1-0f89-439a-8a6a4d76ee4a20b0.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/2013-10-05-KCRF-1464EC-RS-2-_3642B74F-B20D-484A-93FC999D8EDCDD65_2163be43-d868-4ec7-8fe33ce021929d0e.jpg&quot; width=&quot;1024&quot; height=&quot;1024&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/Ramoni3_55B93D48-C9C5-45CD-B48329089F2AB674_7c4af23a-c2d4-4b3d-86663e128fbf6623.jpg&quot; width=&quot;640&quot; height=&quot;960&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/StageShow-TricksoftheLight1_377F1ED5-4439-4E40-BAA0FD4A760BB3C2_d81311a2-a7ee-4b24-9eb6e9eb6f5cb4f8.jpg&quot; width=&quot;847&quot; height=&quot;635&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/180x150-Joust_DCAB6988-2203-4759-A3DF4EF18D8F4B82_025d2a5e-4e6d-40d4-9bf0f7e1a61216b6.jpg&quot; width=&quot;180&quot; height=&quot;150&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/800x400-StageShow_3EC616C7-CEBC-46CC-99C4C7473E46CE25_b5ca1b3a-d33e-4013-8aef9da5fbd3a777.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/800x400-Pirates_5868403B-FBB6-46B8-BDFE941F65CCA164_9ebbae96-6631-41fc-a28452b61580be89.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/28827622_10155343790888531_1679250143025762287_o0_08f41ba6-5056-b365-ab92a77ef9f20951.jpg&quot; width=&quot;1024&quot; height=&quot;367&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Open Spaces: The Expanded Field</title>
+ <link>http://visitkc:8888/event-detail/open-spaces-expanded-field</link>
+ <guid isPermaLink="false">39790</guid>
+ <pubDate>Wed, 2018-08-29 00:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Open Spaces: The Expanded Field</dc:title>
+ <visitkc:location>Swope Park, 3999 Swope Pkwy &amp; E Meyer Blvd, Kansas City, MO 64132</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/hero-expanded-field0_a51bb809-5056-b365-ab5e6d770a97e662.png&quot; width=&quot;1024&quot; height=&quot;440&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Open Spaces: The Village</title>
+ <link>http://visitkc:8888/event-detail/open-spaces-village</link>
+ <guid isPermaLink="false">39791</guid>
+ <pubDate>Wed, 2018-08-29 00:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Open Spaces: The Village</dc:title>
+ <visitkc:location>Swope Park, 3999 Swope Pkwy &amp; E Meyer Blvd, Kansas City, MO 64132</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/the-village-hero20_a5228246-5056-b365-ab224804460e4e3a.png&quot; width=&quot;1024&quot; height=&quot;505&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Santa-Cali-Gon Days 2018</title>
+ <link>http://visitkc:8888/event-detail/santa-cali-gon-days-2018</link>
+ <guid isPermaLink="false">39807</guid>
+ <pubDate>Fri, 2018-08-31 12:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Santa-Cali-Gon Days 2018</dc:title>
+ <visitkc:location>Independence Square, 112 W Lexington St., Independence, MO 64050</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/santacaligon-hero0_3a874955-5056-b365-ab370e39afb047b3.png&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Kansas City Irish Fest</title>
+ <link>http://visitkc:8888/event-detail/kansas-city-irish-fest</link>
+ <guid isPermaLink="false">39802</guid>
+ <pubDate>Fri, 2018-08-31 17:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Kansas City Irish Fest</dc:title>
+ <visitkc:location>Crown Center, 2450 Grand Blvd., Kansas City, MO 64108</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/36524_20194_5fd71689-5056-b365-ab3178bbdda63abe.jpg&quot; width=&quot;1024&quot; height=&quot;684&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/36524_22055_5fd7338e-5056-b365-ab2074be5a9e4c8f.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/36524_22276_5fd756e6-5056-b365-ab4de7b8ce441f59.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Banda MS</title>
+ <link>http://visitkc:8888/event-detail/banda-ms</link>
+ <guid isPermaLink="false">39809</guid>
+ <pubDate>Sat, 2018-09-01 20:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Banda MS</dc:title>
+ <visitkc:location>Sprint Center, 1407 Grand Blvd., Kansas City, MO 64105</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/09-01-18-Banda-MS-1280x500-v1-6e5a2c45190_915111c8-5056-b365-ab23df81015fbe81.jpg&quot; width=&quot;1024&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>kidFEST at Science City</title>
+ <link>http://visitkc:8888/event-detail/kidfest-science-city</link>
+ <guid isPermaLink="false">39499</guid>
+ <pubDate>Sat, 2018-09-01 10:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>kidFEST at Science City</dc:title>
+ <visitkc:location>Science City, 30 West Pershing Road, Kansas City, MO 64108</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/Science-City-at-Union-Station-4-_24a9cb09-5056-b365-ab872b3d47b5197c.jpg&quot; width=&quot;800&quot; height=&quot;395&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>The Big Picture</title>
+ <link>http://visitkc:8888/event-detail/big-picture</link>
+ <guid isPermaLink="false">39140</guid>
+ <pubDate>Wed, 2018-08-29 00:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>The Big Picture</dc:title>
+ <visitkc:location>The Nelson-Atkins Museum of Art</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/BigPicture0_e61cbde4-5056-b365-ab83ffa376f5a707.png&quot; width=&quot;1024&quot; height=&quot;674&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Kansas City Royals vs. Baltimore Orioles</title>
+ <link>http://visitkc:8888/event-detail/kansas-city-royals-vs-baltimore-orioles</link>
+ <guid isPermaLink="false">38707</guid>
+ <pubDate>Fri, 2018-08-31 19:15</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Kansas City Royals vs. Baltimore Orioles</dc:title>
+ <visitkc:location>Kauffman Stadium, One Royal Way, Kansas City, MO 64129</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/Royals-ALDS-2-_62c25ffd-5056-b365-abe03f657372d8bf.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/kauffman0_62c27f60-5056-b365-ab3f9f108d94f9d8.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/37392_21359_600ac461-5056-b365-ab0ed7a936b58449.jpg&quot; width=&quot;800&quot; height=&quot;400&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+ <item> <title>Open Spaces: The Exhibition</title>
+ <link>http://visitkc:8888/event-detail/open-spaces-exhibition</link>
+ <guid isPermaLink="false">38424</guid>
+ <pubDate>Wed, 2018-08-29 00:00</pubDate>
+ <source url="http://visitkc:8888/eventsrssfeed.xml/20180830000000--20180902235959/428">Events RSS Feed</source>
+ <dc:title>Open Spaces: The Exhibition</dc:title>
+ <visitkc:location>Swope Park, 3999 Swope Pkwy &amp; E Meyer Blvd, Kansas City, MO 64132</visitkc:location>
+ <visitkc:images>
+  &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/the-exhibition-hero30_a511ba1c-5056-b365-ab94b93eef559a21.png&quot; width=&quot;1024&quot; height=&quot;478&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;field-images item &quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/Open-Spaces_dbdd2717-5056-b365-ab16d1935c62d64b.jpg&quot; width=&quot;800&quot; height=&quot;266&quot; /&gt;&lt;/div&gt;
+</visitkc:images>
+</item>
+</channel>
+</rss>
