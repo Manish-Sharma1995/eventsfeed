@@ -6,22 +6,28 @@
  <lastBuildDate>Fri, 31 Aug 2018 00:47:14 -0500</lastBuildDate>
  <item> <title>Movie in the Park: Hidden Figures</title>
  <link>http://visitkc:8888/event-detail/movie-park-hidden-figures</link>
+ <description><![CDATA[
+  <div class="field-images item active"><img class="img-responsive" src="https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/35146428_1967595706585218_7638961388794150912_o0_4a969d19-5056-b365-aba976a8fdf44451.jpg" width="1024" height="576" /></div>
+]]></description>
  <guid isPermaLink="false">39805</guid>
  <pubDate>Fri, 2018-08-31 20:00</pubDate>
  <source url="http://visitkc:8888/eventsrssfeed.xml/20180831000000--20180902235959/444">Events RSS Feed</source>
- <image><![CDATA[
+ <image>
   &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/35146428_1967595706585218_7638961388794150912_o0_4a969d19-5056-b365-aba976a8fdf44451.jpg&quot; width=&quot;1024&quot; height=&quot;576&quot; /&gt;&lt;/div&gt;
-]]></image>
+</image>
  <location>Grandview Amphitheater, 13601 Byars Rd., Grandview, MO 64030</location>
 </item>
  <item> <title>Lenexa Public Market&#039;s First Birthday Party!</title>
  <link>http://visitkc:8888/event-detail/lenexa-public-markets-first-birthday-party</link>
+ <description><![CDATA[
+  <div class="field-images item active"><img class="img-responsive" src="https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/38848033_2066898346677069_3866900665955516416_o0_49ccd127-5056-b365-abf40ed248070d9a.jpg" width="1024" height="512" /></div>
+]]></description>
  <guid isPermaLink="false">39818</guid>
  <pubDate>Sat, 2018-09-01 12:00</pubDate>
  <source url="http://visitkc:8888/eventsrssfeed.xml/20180831000000--20180902235959/444">Events RSS Feed</source>
- <image><![CDATA[
+ <image>
   &lt;div class=&quot;field-images item active&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;https://visitkcfiles-stage.s3-us-west-2.amazonaws.com/38848033_2066898346677069_3866900665955516416_o0_49ccd127-5056-b365-abf40ed248070d9a.jpg&quot; width=&quot;1024&quot; height=&quot;512&quot; /&gt;&lt;/div&gt;
-]]></image>
+</image>
  <location>Lenexa Public Market</location>
 </item>
 </channel>
